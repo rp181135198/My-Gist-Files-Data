@@ -1,4 +1,4 @@
-[<p align="center"><img width="444" height="250" src="https://img.youtube.com/vi/J1YO5IGaTlQ/maxresdefault.jpg"></p>](https://youtu.be/J1YO5IGaTlQ)
+[<p align="center"><img width="267" height="150" src="https://img.youtube.com/vi/J1YO5IGaTlQ/maxresdefault.jpg"></p>](https://youtu.be/J1YO5IGaTlQ)
 
 ## Example 1
 <p align="center">
