@@ -1,4 +1,8 @@
+<p align="center">
+
 # Straight Line Examples using C/C++ graphics.h
+
+</p>
 
 ## Example 1
 <p align="center">
