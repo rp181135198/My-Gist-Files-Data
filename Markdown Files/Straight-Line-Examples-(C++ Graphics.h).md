@@ -1,6 +1,8 @@
 # Straight Line Examples using C/C++ graphics.h
 
-[![Watch the video](https://img.youtube.com/vi/J1YO5IGaTlQ/maxresdefault.jpg)](https://youtu.be/J1YO5IGaTlQ)
+<p align="centre">
+[![Watch the video](width="443" height="350" src="https://img.youtube.com/vi/J1YO5IGaTlQ/maxresdefault.jpg)](https://youtu.be/J1YO5IGaTlQ")
+</p>
 
 ## Example 1
 <p align="center">
