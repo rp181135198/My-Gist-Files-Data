@@ -1,5 +1,3 @@
-# Straight Line Examples using C/C++ graphics.h
-
 [<p align="center"><img width="444" height="250" src="https://img.youtube.com/vi/J1YO5IGaTlQ/maxresdefault.jpg"></p>](https://youtu.be/J1YO5IGaTlQ)
 
 ## Example 1
