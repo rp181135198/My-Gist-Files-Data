@@ -5,6 +5,7 @@
 It works with almost all markdown flavours (the below blank line matters).
 
 ---
+> **Example**
 <h4>Example</h4>
 <p align="center">
     <img width="50%" src="https://raw.githubusercontent.com/rp181135198/My-Gist-Files-Data/master/Image%20Data/Straight%20Line%20Examples%20in%20C%2B%2B%20graphics.h/Example%20of%20lineto%20and%20moveto.PNG"><br>
