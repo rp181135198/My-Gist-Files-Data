@@ -2,7 +2,9 @@
 ## Title
 > **DESCRIPTION**
 
-__It works with almost all markdown flavours (the below blank line matters).__
+<i>
+Say something about the purpose of gist file created.
+</i>
 
 ---
 <h4>Example</h4>
