@@ -1,4 +1,4 @@
-> [<p align="left"><img width="30%" align="left" src="https://img.youtube.com/vi/r7yOMz8HrHk/maxresdefault.jpg">](https://youtu.be/r7yOMz8HrHk) [<img width="20%" align="right" src="https://raw.githubusercontent.com/rp181135198/My-Gist-Files-Data/master/Image%20Data/Channel%20Logo.png"></p>](https://www.youtube.com/c/codewar)
+> [<p align="left"><img width="30%" align="left" src="https://img.youtube.com/vi/r7yOMz8HrHk/maxresdefault.jpg"></p>](https://youtu.be/r7yOMz8HrHk) [<img width="20%" align="right" src="https://raw.githubusercontent.com/rp181135198/My-Gist-Files-Data/master/Image%20Data/Channel%20Logo.png">](https://www.youtube.com/c/codewar)
 
 ## Title
 **DESCRIPTION**
