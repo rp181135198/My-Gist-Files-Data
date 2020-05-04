@@ -3,9 +3,9 @@
 ## Title
 **DESCRIPTION**
 
-<i>
-Say something about the purpose of gist file created.
-</i>
+<dl><i>
+    <dt>Say something about the purpose of gist file created.</dt>
+</i></dl>
 
 ---
 
