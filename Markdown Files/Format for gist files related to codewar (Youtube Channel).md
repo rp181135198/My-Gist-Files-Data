@@ -3,7 +3,6 @@
 > **DESCRIPTION**
 
 It works with almost all markdown flavours (the below blank line matters).
-
 ---
 <h4>Example</h4>
 <p align="center">
