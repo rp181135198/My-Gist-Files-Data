@@ -2,7 +2,8 @@
 ## Title
 > **DESCRIPTION**
 
-It works with almost all markdown flavours (the below blank line matters).
+__It works with almost all markdown flavours (the below blank line matters).__
+
 ---
 <h4>Example</h4>
 <p align="center">
