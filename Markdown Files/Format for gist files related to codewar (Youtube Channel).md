@@ -1,7 +1,6 @@
-[<p align="left"><img width="30%" src="https://img.youtube.com/vi/r7yOMz8HrHk/maxresdefault.jpg"></p>](https://youtu.be/r7yOMz8HrHk)
+> [<p align="left"><img width="30%" src="https://img.youtube.com/vi/r7yOMz8HrHk/maxresdefault.jpg"></p>](https://youtu.be/r7yOMz8HrHk)
 ## Title
-
-> **DESCRIPTION**
+**DESCRIPTION**
 
 <i>
 Say something about the purpose of gist file created.
